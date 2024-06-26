@@ -3,7 +3,7 @@ import pyttsx3
 import speech_recognition as sr
 import time
 
-openai.api_key = "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"
+openai.api_key = "api key"
 
 engine = pyttsx3.init()
 
