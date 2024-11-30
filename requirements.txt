@@ -1,0 +1,7 @@
+pyAudio
+SpeechRecognition
+pyttsx3
+langchain 
+langchain-ollama 
+ollama
+pydantic<2.0
