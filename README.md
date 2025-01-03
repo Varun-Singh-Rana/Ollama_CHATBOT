@@ -1,5 +1,3 @@
----
-
 # **Offline Chatbot Using Ollama**
 
 ### **Introduction**
