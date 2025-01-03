@@ -1,7 +1,9 @@
 pyAudio
 SpeechRecognition
 pyttsx3
-langchain 
+langchain
+langchain-core
 langchain-ollama 
 ollama
-pydantic<2.0
+pydantic
+sqlite3
