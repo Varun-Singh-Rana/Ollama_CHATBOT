@@ -7,3 +7,5 @@ langchain-ollama
 ollama
 pydantic
 sqlite3
+Kivy
+Kivymd
