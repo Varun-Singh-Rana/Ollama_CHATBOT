@@ -78,3 +78,21 @@ Key highlights:
 > Special thanks to the Ollama team and the open-source community for their support and tools.
 
 ---
+### **Screenshots**
+<img src="screenshots/image6.png" alt="Loaginpage Screenshot" width="600"/>
+<br>
+
+<br>
+<img src="screenshots/image7.png" alt="Loginpage Screenshot" width="600"/>
+<br>
+Dashboard:
+<br>
+<img src="screenshots/image8.png" width="600"/>
+<br>
+Calendar:
+<br>
+<img src="screenshots/image9.png" width="600"/>
+<br>
+Reports:
+<br>
+<img src="screenshots/image10.png" width="600"/>
